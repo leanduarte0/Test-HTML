@@ -1,6 +1,6 @@
 *{
   font-family: 'Montserrat', sans-serif;
-  color: white
+  color: white;
 }
 
 body{
@@ -31,7 +31,7 @@ label {
 
 input{
   font-size: 100%;
-  color: black
+  color: black;
 }
 
 #name,#email,#number{
@@ -41,7 +41,7 @@ input{
 }
 
 select,option{
-  color: black
+  color: black;
 }
 
 #yes,#no{
